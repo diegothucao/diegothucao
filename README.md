@@ -37,6 +37,6 @@ I'm a full-stack engineer specializing in:
 ---
 
 🚀 **Career Highlights**  
-- First, leader for Clinic flatform that manage all business of DermFx (https://www.dermfx.com), big Clinic in US
-- Lead technical team of Keno Car Wash(https://www.keno.ae) app   
-- Main developer of Zbooni(https://www.zbooni.com), ecommercial flatform in UAE with millions stores 
+- First, leader for Clinic flatform that manage all business of [DermFx](https://www.dermfx.com), big Clinic in US
+- Lead technical team of [Keno Car Wash](https://www.keno.ae) app   
+- Main developer of [Zbooni](https://www.zbooni.com), ecommercial flatform in UAE with millions stores 
