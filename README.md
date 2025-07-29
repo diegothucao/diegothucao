@@ -1,29 +1,34 @@
-## Hi there 👋
-👋 I'm Thu CAo, a full-stack software engineer with more than 20 years in software development.
+Hi there 👋
 
-Check more my profile detail in my Linkedin https://www.linkedin.com/in/thucao/edit/forms/summary/new/?profileFormEntryPoint=PROFILE_SECTION and my Github https://github.com/diegothucao.
+👋 I'm Thu Cao, a full-stack software engineer with over 20 years of experience in software development.
 
-💼 Availability:
+🔗 Check out my profiles:
 
-Working full-time as a full stack software engineer at a stealth startup.
-Passively seeking co-founders with start up companies that my skills and my experiences can help a lot.
+LinkedIn
+GitHub
+💼 Current Status
 
-🎯 I'm a full-stack engineer with over 20 years of experience, specializing in:
+Working full-time as a full-stack software engineer at a stealth startup.
+Open to collaborating with startup co-founders where my experience can make a real impact.
+🎯 Expertise
+I'm a full-stack engineer specializing in:
 
-Working with/in your startup or small organization
-Apple app development: iOS, Android, React Native, Flutter, MacOS, iPadOS, TvOS, TatchOS.
-Web app development: HTML, React, Preact, Vue, Next.js, Svelte, other frameworks and tools du jour.
-Backend: Nodejs, Go, Rail, and more.
-NextJS + Reactjs, React Native, Go, Svelte, Native apps and (Currently skilling up and building with this framework)
-Lightweight project leader, ownership, and workflow automation
-🔥 Excited About:
+Startup & Small Team Collaboration
+Apple App Development: iOS, macOS, iPadOS, tvOS, watchOS using Swift, Flutter, and React Native
+Cross-platform Mobile: React Native, Flutter
+Web Development: React, Next.js, Vue, Preact, Svelte, and more
+Backend: Node.js, Go, Ruby on Rails, and others
+Databases: PostgreSQL, MongoDB, MySQL, etc.
+Currently Exploring: Svelte, Go, Next.js, Native apps
+Soft Skills: Project ownership, lightweight leadership, workflow automation
+🔥 Excited About
 
-AI-assisted computer use (think Apple Intelligence, but if it was less lame)
-Scaling language models at test-time (e,g, reasoning, agent graph problem-solving, data retrieval and organization)
-Building datasets and evaluating language models
-Applications of "tradiitonal" ML in scaling language models
-🚀 Career Highlights:
+Fintech, logistics, and social platforms
+Building scalable products for millions of users with high performance demands
+Dataset optimization and performance tuning
+Remote collaboration and international, creative environments
+🚀 Career Highlights
 
-First lead mobile engineer at Pluto TV ($340MM exit)
-Leader and individual contributor to many green-field projects in early stage startups.
-Developed open-source Android app, ElectricSleep ⚡😴, during university, amassing over 1 million users
+First lead mobile engineer at Pluto TV (acquired for $340M)
+Led and contributed to several greenfield projects at early-stage startups
+Created open-source Android app ElectricSleep ⚡😴 during university—garnered over 1 million users
