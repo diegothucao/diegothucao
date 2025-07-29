@@ -11,11 +11,11 @@ Passively seeking co-founders with start up companies that my skills and my expe
 🎯 I'm a full-stack engineer with over 20 years of experience, specializing in:
 
 Working with/in your startup or small organization
-Apple app development: iOS, macOS, iPadOS, tvOS, watchOS, macOS
-Web app development: HTML, React, Preact, Vue, Next.js, other frameworks and tools du jour.
-AI Apps: LLMs, RAG, Agents, and more.
-NextJS + React (Currently skilling up and building with this framework)
-Lightweight project management, ownership, and workflow automation
+Apple app development: iOS, Android, React Native, Flutter, MacOS, iPadOS, TvOS, TatchOS.
+Web app development: HTML, React, Preact, Vue, Next.js, Svelte, other frameworks and tools du jour.
+Backend: Nodejs, Go, Rail, and more.
+NextJS + Reactjs, React Native, Go, Svelte, Native apps and (Currently skilling up and building with this framework)
+Lightweight project leader, ownership, and workflow automation
 🔥 Excited About:
 
 AI-assisted computer use (think Apple Intelligence, but if it was less lame)
