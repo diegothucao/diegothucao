@@ -21,7 +21,7 @@ I'm a full-stack engineer specializing in:
 - **Apple App Development**: iOS, macOS, iPadOS, tvOS, watchOS using Swift, Flutter, and React Native  
 - **Cross-platform Mobile**: React Native, Flutter  
 - **Web Development**: React, Next.js, Vue, Preact, Svelte, and more  
-- **Backend**: Node.js, Go, Ruby on Rails, and others  
+- **Backend**: Node.js, Go, Ruby on Rails, Kafka, Microservices and others  
 - **Databases**: PostgreSQL, MongoDB, MySQL, etc.  
 - **Currently Exploring**: Svelte, Go, Next.js, Native apps  
 - **Soft Skills**: Project ownership, lightweight leadership, workflow automation
