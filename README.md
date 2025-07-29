@@ -1,12 +1,6 @@
 ## Hi there 👋
-
-<!--
-**diegothucao/diegothucao** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-👋 I'm Jon, a full-stack software engineer and occasional co-founder
-
-check out my ahead-of-its time AI Agent swarm demo app from 2023: https://github.com/agi-merge/waggle-dance
+👋 I'm Thu CAo, a full-stack software engineer with more than 20 years in software development.
+Check more my profile detail in my Linkedin https://www.linkedin.com/in/thucao/edit/forms/summary/new/?profileFormEntryPoint=PROFILE_SECTION and my Github https://github.com/diegothucao.
 
 💼 Availability:
 
@@ -31,12 +25,3 @@ Applications of "tradiitonal" ML in scaling language models
 First lead mobile engineer at Pluto TV ($340MM exit)
 Leader and individual contributor to many green-field projects in early stage startups.
 Developed open-source Android app, ElectricSleep ⚡😴, during university, amassing over 1 million users
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
