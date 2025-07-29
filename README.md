@@ -16,7 +16,6 @@
 
 🎯 **Expertise**  
 I'm a full-stack engineer specializing in:
-
 - **Startup & Small Team Collaboration**  
 - **Apple App Development**: iOS, macOS, iPadOS, tvOS, watchOS using Swift, Flutter, and React Native  
 - **Cross-platform Mobile**: React Native, Flutter  
