@@ -5,9 +5,9 @@ Check more my profile detail in my Linkedin https://www.linkedin.com/in/thucao/e
 
 💼 Availability:
 
-Working full-time as a full stack AI engineer at a stealth startup
-Passively seeking co-founders with AI-related businesses or ideas]
-🎯 I'm a full-stack engineer with over 10 years of experience, specializing in:
+Working full-time as a full stack software engineer at a stealth startup
+Passively seeking co-founders with start up companies that my skills and my experiences can help a lot.
+🎯 I'm a full-stack engineer with over 20 years of experience, specializing in:
 
 Working with/in your startup or small organization
 Apple app development: iOS, macOS, iPadOS, tvOS, watchOS, macOS
