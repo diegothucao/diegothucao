@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-👋 I'm **Thu Cao**, a full-stack software engineer with over 20 years of experience in software development.
+👋 I'm **Thu Cao**, a full-stack software engineer with over 20 years of experience in software development with near 60 projects.
 
 ---
 
