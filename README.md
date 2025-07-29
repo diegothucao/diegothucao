@@ -49,5 +49,5 @@ I'm a full-stack engineer specializing in:
 📎 **Connect with me:**  
 - [LinkedIn](https://www.linkedin.com/in/thucao)  
 - [GitHub](https://github.com/diegothucao)
-- Email: cao.trung.thu@gmail.com 
-- Microsoft Team ID: diego.thu.cao
+- [Email](mailto:cao.trung.thu@gmail.com)  
+- [Chat with me on Microsoft Teams](https://teams.microsoft.com/l/chat/0/0?users=diego.thu.cao)
