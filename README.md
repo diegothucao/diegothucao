@@ -1,5 +1,6 @@
 ## Hi there 👋
 👋 I'm Thu CAo, a full-stack software engineer with more than 20 years in software development.
+
 Check more my profile detail in my Linkedin https://www.linkedin.com/in/thucao/edit/forms/summary/new/?profileFormEntryPoint=PROFILE_SECTION and my Github https://github.com/diegothucao.
 
 💼 Availability:
