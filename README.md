@@ -46,7 +46,7 @@ I'm a full-stack engineer specializing in:
 
 ---
 
-📎 **Connect with me:**  
+📎 **Connect with me**  
 - [LinkedIn](https://www.linkedin.com/in/thucao)  
 - [GitHub](https://github.com/diegothucao)
 - [Email](mailto:cao.trung.thu@gmail.com)  
