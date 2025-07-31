@@ -1,11 +1,13 @@
 ## Hi there 👋
 
 👋 I'm **Thụ Cao**, a full-stack software engineer with over 20 years of experience in software development with near 60 projects.
+I specialize in building robust mobile, web, and backend applications, especially in startup and small-team environments where speed, ownership, and clarity are critical. Over the years, I’ve taken on roles ranging from technical lead to product owner, shaping entire systems from the ground up and driving them to market with measurable impact
+
 
 ---
 
 💼 **Current Status**  
-- Working full-time as a full-stack software engineer at a stealth startup  
+- Working as full-time full-stack software engineer, technical leader at a stealth startup 
 - Open to collaborating with startup co-founders where my experience can drive real impact
 
 ---
@@ -43,6 +45,9 @@ I'm a full-stack engineer specializing in:
 - Led development of a clinic management platform for [DermFx](https://www.dermfx.com), one of the largest clinics in the U.S.  
 - Technical lead of the [Keno Car Wash](https://www.keno.ae) app  
 - Core developer of [Zbooni](https://www.zbooni.com), a leading e-commerce platform in the UAE with millions of stores
+- Technical Lead at Fangmedia – Designed and launched high-scale media & streaming services as [LiveTrading](https://www.livetrading.com), [FBZ](https://www.fansbazaar.com/), [RC](https://www.rawconfessions.com) and so on.
+- Technical Lead at HalongPay – Delivered 3 full FinTech platforms across mobile and web [HalongPay](https://6gmustafapay.com), [Blueinvest](https://blueinvest.ai) and [Blueloyalty](https://blueloyalty.ai)
+- Technical Lead of Truffle Technology - Design [Haloed app](https://www.truffletech.com)
 
 ---
 
